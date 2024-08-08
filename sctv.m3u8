@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://master-stream.my.id/live/28A28DC289AA42B5466950727F3EA888/252
+//https://cors-anywhere-batou.herokuapp.com/https://play.gachor99.my.id/roni/jimbaran/9

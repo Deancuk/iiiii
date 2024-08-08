@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://master-stream.my.id/live/28A28DC289AA42B5466950727F3EA888/248
+//http://master-stream.my.id:80/live/EEF121338D194DA97F972D6272CA2BB3/248
